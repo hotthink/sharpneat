@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ActivationFnBenchmarks\ActivationFnBenchmarks.csproj">
-      <Project>{ae4a9c7c-025a-41c0-a4ea-717c96afe541}</Project>
+      <Project>{9486fb56-b588-47f8-b88d-a0bad67b5bf5}</Project>
       <Name>ActivationFnBenchmarks</Name>
     </ProjectReference>
   </ItemGroup>
